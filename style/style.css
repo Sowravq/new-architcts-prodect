@@ -205,6 +205,7 @@ main{
 
 /* madia scition max width 576px*/
 @media screen and (max-width:576px) {
+    
    .nav-section{
        flex-direction: column;
    }
@@ -242,7 +243,7 @@ main{
 }
 
 .expreance-scetion img{
-   width: 390px;
+   width: 350px;
    height: 900px;
    margin-left: 0;
     
